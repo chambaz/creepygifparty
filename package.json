@@ -1,0 +1,26 @@
+{
+  "name": "creepygifparty",
+  "version": "0.0.0",
+  "description": "A creepy gif party",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chambaz/creepygifparty.git"
+  },
+  "author": "Adam Chambers <@chambaz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chambaz/creepygifparty/issues"
+  },
+  "homepage": "https://github.com/chambaz/creepygifparty#readme",
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
